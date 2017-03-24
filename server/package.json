@@ -1,0 +1,11 @@
+{
+  "name": "secure_restful_app",
+  "version": "0.1.0",
+  "description": "secure_restful_app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ytian90",
+  "license": "MIT"
+}
