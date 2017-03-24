@@ -1,7 +1,7 @@
 var express = require('express');
-var router = require.Router();
+var router = express.Router();
 
-var auth = require.('./auth.js');
+var auth = require('./auth.js');
 var products = require('./products.js');
 var user = require('./users.js');
 
